@@ -16,3 +16,4 @@ During the exploration, I focused on various statistics such as missing values, 
 Next, I trained the data using the random forest classifier and made predictions on the test data. Finally, I generated and saved a submission .csv file.
 
 # Result
+Regarding the results, I initially experimented with various models such as Support Vector Machine, Linear Regression and CNN. However, these models did not yield satisfactory scores, except for the Random Forest, which provided a decent score (>77%). After using Random Forest Classifier, I have used predict() function to the test data that we have processed.
